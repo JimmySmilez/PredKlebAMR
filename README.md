@@ -1,3 +1,17 @@
+<div align="center">
+  <img src="figures/Screenshot 2026-07-09 224123.png" alt="Project Logo" width="160" height="160">
+  
+  # PredKlebAMR
+  
+  <p align="center">
+    A phenotype predictor dashboard, powered by a high-throughput ML model.
+  </p>
+  
+  [![GitHub license](https://shields.io)](https://github.com)
+  [![GitHub stars](https://shields.io)](https://github.com/stargazers)
+</div>
+
+---
 # PredKlebAMR: Predictive Model for Antimicrobial Resistance in *Klebsiella pneumoniae* using Artificial Intelligence and Machine Learning
 
 ## 🎗️Background
